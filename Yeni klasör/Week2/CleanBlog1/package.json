@@ -1,0 +1,21 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "Clean Blog Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Koray sarıoglu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14",
+    "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.12"
+  }
+}
